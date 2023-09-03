@@ -103,14 +103,11 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
-<p align="left">
-<a href="https://www.leetcode.com/therohitgupta" target="blank"><img align="center" src="https://iconscout.com/icon/leetcode-3521542" alt="therohitgupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rg640321" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="rg640321" height="30" width="40" /></a>
-</p>
+
 
 ###
