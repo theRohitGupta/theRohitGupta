@@ -104,6 +104,11 @@
 <div align="center">
   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+    [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&unique=true)
   </a>
 </div>
 
