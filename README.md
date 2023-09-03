@@ -109,8 +109,8 @@
 
 ###
 <p align="left">
-<a href="https://www.leetcode.com/therohitgupta" target="blank"><img align="center" src="assets/leetcode.svg" alt="therohitgupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rg640321" target="blank"><img align="center" src="assets/GeeksforGeeks.svg" alt="rg640321" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/therohitgupta" target="blank"><img align="center" src="https://iconscout.com/icon/leetcode-3521542" alt="therohitgupta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rg640321" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="rg640321" height="30" width="40" /></a>
 </p>
 
 ###
