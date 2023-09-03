@@ -108,6 +108,14 @@
 </div>
 
 ###
-
+<div align="left">
+  <a href="https://leetcode.com/theRohitGupta/" target="_blank">
+    <img src="./assets/leetcode.svg" alt="Leetcode" />
+  </a>
+  <br/>
+  <a href="https://auth.geeksforgeeks.org/user/rg640321" target="_blank">
+    <img src="assets/GeeksForGeeks.svg" alt="GeeksForGeeks" />
+  </a>
+</div>
 
 ###
