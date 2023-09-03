@@ -108,12 +108,9 @@
 </div>
 
 ###
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/therohitgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therohitgupta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rg640321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rg640321" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/therohitgupta" target="blank"><img align="center" src="assets/leetcode.svg" alt="therohitgupta" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rg640321" target="blank"><img align="center" src="assets/GeeksforGeeks.svg" alt="rg640321" height="30" width="40" /></a>
 </p>
 
 ###
