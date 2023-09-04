@@ -26,6 +26,10 @@
     <a href="https://rohit-gupta-resume.tiiny.site/" target="_blank">
       <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
   </a> 
+    <img width="5" />
+    <a href="https://therohitgupta.github.io/Rohit-Gupta/" target="_blank">
+      <img src="https://img.shields.io/badge/Personal%20Webpage%20🌐-D8D9DA" height="30" alt="Personal Website"/>
+  </a> 
 </div>
 
 ###
@@ -117,14 +121,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/therohitgupta/therohitgupta/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
+<div align="right">
   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
+###
+
+  ![Snake animation](https://github.com/{{your_username}}/{{theRohitGupta}}/blob/output/github-contribution-grid-snake.svg)
+  
 ###
