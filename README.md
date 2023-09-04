@@ -129,6 +129,6 @@
 
 ###
 
-![Snake animation](https://github.com/theRohitGupta/theRohitGupta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/therohitgupta/therohitgupta/blob/output/github-contribution-grid-snake.svg)
 
 ###
