@@ -6,15 +6,22 @@
 
 ###
 
-<h6 align="right">Coding  Profiles</h6>
+<h6 align="left">Coding  Profiles</h6>
 
 ###
 
-<div align="center">
+<div align="left">
+  <a href="https://leetcode.com/theRohitGupta/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="Leetcode"  />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="Leetcode"  />
+  <a href="https://auth.geeksforgeeks.org/user/rg640321" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="40" alt="GeeksForGeeks"/>
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+    <a href="https://www.codingninjas.com/studio/profile/9842e2ef-aadb-48e9-b45e-3cf279008834" target="_blank">
+      <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" height="40" alt="Coding Ninjas"/>
+  </a> 
 </div>
 
 ###
