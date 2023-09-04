@@ -1,4 +1,4 @@
-<h2 align="center">Hi There👋<br>My Name is Rohit</h2>
+<h2 align="center">Hi There <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> <br>My Name is Rohit</h2>
 
 ###
 
@@ -129,6 +129,8 @@
 
 ###
 
-![Snake animation](https://github.com/therohitgupta/therohitgupta/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
+</p>
 
 ###
