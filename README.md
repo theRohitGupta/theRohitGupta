@@ -22,14 +22,6 @@
     <a href="https://www.codingninjas.com/studio/profile/9842e2ef-aadb-48e9-b45e-3cf279008834" target="_blank">
       <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" height="30" alt="Coding Ninjas"/>
   </a> 
-    <img width="5" />
-    <a href="https://rohit-gupta-resume.tiiny.site/" target="_blank">
-      <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
-  </a> 
-    <img width="5" />
-    <a href="https://therohitgupta.github.io/Rohit-Gupta/" target="_blank">
-      <img src="https://img.shields.io/badge/Website%20🌐-FAF1E4" height="30" alt="Personal Website"/>
-  </a> 
 </div>
 
 ###
@@ -108,15 +100,26 @@
   <a href="https://www.instagram.com/i.am_r.g/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
+  <img width="5" />
   <a href="mailto:itsxme.rohit@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
+  <img width="5" />
   <a href="https://www.linkedin.com/in/thisisrg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+  <img width="5" />
   <a href="https://wa.me/qr/OGNZYJWTFYOUD1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
+      <img width="5" />
+    <a href="https://rohit-gupta-resume.tiiny.site/" target="_blank">
+      <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
+  </a> 
+    <img width="5" />
+    <a href="https://therohitgupta.github.io/Rohit-Gupta/" target="_blank">
+      <img src="https://img.shields.io/badge/My%20Webpage%20🌐-7C96AB" height="30" alt="Personal Website"/>
+  </a> 
 </div>
 
 ###
