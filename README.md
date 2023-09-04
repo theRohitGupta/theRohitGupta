@@ -124,7 +124,7 @@
 <div>
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%" align="left">
   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw" width="50%" >
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played" align="right" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=1&unique=true" alt="Spotify recently played" align="right" />
   </a>
 </div>
 
