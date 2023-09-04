@@ -28,7 +28,7 @@
   </a> 
     <img width="5" />
     <a href="https://therohitgupta.github.io/Rohit-Gupta/" target="_blank">
-      <img src="https://img.shields.io/badge/Personal%20Webpage%20🌐-D8D9DA" height="30" alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/Website%20🌐-FAF1E4" height="30" alt="Personal Website"/>
   </a> 
 </div>
 
