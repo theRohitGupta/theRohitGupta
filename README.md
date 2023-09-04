@@ -121,16 +121,11 @@
 
 ###
 
-<p align="left">
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%">
+  <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played" />
+  </a>
 </p>
 
 ###
-
-###
-
-<div align="right">
-  <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
