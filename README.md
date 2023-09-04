@@ -2,21 +2,21 @@
 
 ###
 
-<br clear="both">
-
 <h5 align="center">I'm a MERN Stack Developer.....Who Loves DSA😎</h5>
 
 ###
-
-<br clear="both">
 
 <h6 align="right">Coding  Profiles</h6>
 
 ###
 
-<br clear="both">
-
-<h6 align="center">Links</h6>
+<div align="center">
+  <img src="[https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" height="40" alt="Leetcode"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+</div>
 
 ###
 
