@@ -12,15 +12,15 @@
 
 <div align="left">
   <a href="https://leetcode.com/theRohitGupta/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40" alt="Leetcode"  />
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="Leetcode"  />
   </a>
   <img width="12" />
   <a href="https://auth.geeksforgeeks.org/user/rg640321" target="_blank">
-      <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="40" alt="GeeksForGeeks"/>
+      <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" height="30" alt="GeeksForGeeks"/>
   </a>
   <img width="12" />
     <a href="https://www.codingninjas.com/studio/profile/9842e2ef-aadb-48e9-b45e-3cf279008834" target="_blank">
-      <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" height="40" alt="Coding Ninjas"/>
+      <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" height="30" alt="Coding Ninjas"/>
   </a> 
 </div>
 
@@ -29,8 +29,6 @@
 <h6 align="left">👨‍💻My Tech Stack</h6>
 
 ###
-
-<br clear="both">
 
 <img align="right" height="230" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"  />
 
@@ -77,10 +75,6 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="25" alt="netlify logo"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"  />
 
 ###
 
