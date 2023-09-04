@@ -22,6 +22,10 @@
     <a href="https://www.codingninjas.com/studio/profile/9842e2ef-aadb-48e9-b45e-3cf279008834" target="_blank">
       <img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" height="30" alt="Coding Ninjas"/>
   </a> 
+    <img width="5" />
+    <a href="https://rohit-gupta-resume.tiiny.site/" target="_blank">
+      <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
+  </a> 
 </div>
 
 ###
@@ -92,7 +96,7 @@
 
 ###
 
-<h6 align="left">Social Links</p>
+<h6 align="left">#️⃣ Social Links</p>
 
 ###
 
@@ -113,30 +117,13 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/therohitgupta/therohitgupta/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJzYnYzYnUyYWxhbGJicTVpaTF6dTBmbWx5YTQ1cGRmYzNiNzdibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sMGC0XjA1Hk58wppo/giphy.gif"  />
 
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-<div align="left">
-  <a href="https://leetcode.com/theRohitGupta/" target="_blank">
-    <img src="./assets/leetcode.svg" alt="Leetcode" />
-  </a>
-  <br/>
-  <a href="https://auth.geeksforgeeks.org/user/rg640321" target="_blank">
-    <img src="assets/GeeksForGeeks.svg" alt="GeeksForGeeks" />
   </a>
 </div>
 
