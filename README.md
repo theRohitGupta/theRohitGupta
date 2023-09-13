@@ -128,8 +128,8 @@
 <!--   <a href="https://open.spotify.com/user/22c4qsku5i7aukqx6w6la00lw" width="50%" > -->
 <!--     <img src="https://spotify-recently-played-readme.vercel.app/api?user=22c4qsku5i7aukqx6w6la00lw&count=1&unique=true" alt="Spotify recently played" align="right" /> -->
 <!--   </a> -->
-<div width="100%">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%" align="center">
+<div width="100%" align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif">
 </div>
 
 ###
