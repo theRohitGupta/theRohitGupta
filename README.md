@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="https://leetcode.com/theRohitGupta/" {:target="_blank"}>
+  <a href="https://leetcode.com/theRohitGupta/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="Leetcode"  />
   </a>
   <img width="5" />
