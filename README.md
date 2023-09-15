@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
       <img width="5" />
-    <a href="https://rohit-gupta-resume.tiiny.site/" target="_blank">
+    <a href="https://drive.google.com/file/d/177FH0O3wiw1v5RB7Um4NmNkFSaeQVCjL/view" target="_blank">
       <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
   </a> 
     <img width="5" />
