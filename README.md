@@ -118,7 +118,7 @@
       <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
   </a> 
     <img width="5" />
-    <a href="https://therohitgupta.github.io/Rohit-Gupta/" target="_blank">
+    <a href="https://therohitgupta.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/My%20Webpage%20🌐-7C96AB" height="30" alt="Personal Website"/>
   </a> 
 </div>
