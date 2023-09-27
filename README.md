@@ -114,7 +114,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
       <img width="5" />
-    <a href="https://drive.google.com/file/d/1yJFqfEAWs_6mUj9VLm4Ly9w4EXowWHx-/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1QRO65NlNNF06AgXt5KdEUl8ak8R84mgX/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/badge/Resume%20📥-FAF1E4" height="30" alt="Download Resume"/>
   </a> 
     <img width="5" />
