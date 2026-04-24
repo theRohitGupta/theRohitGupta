@@ -90,12 +90,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-rohitgupta&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rohitgupta&layout=compact&theme=radical" height="170" />
-</div>
-
 <p align="center">
   <a href="https://rohitgupta.vercel.app/"><b>Portfolio</b></a> • 
-  <a href="https://drive.google.com/file/d/1QRO65NlNNF06AgXt5KdEUl8ak8R84mgX/view"><b>Resume</b></a>
+  <a href="https://rohit-gupta-full-stack-engineer-resume.tiiny.site"><b>Resume</b></a>
 </p>
