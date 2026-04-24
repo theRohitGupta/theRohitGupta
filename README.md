@@ -1,6 +1,16 @@
-<h2 align="center">Hi There <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> <br>I'm Rohit Gupta</h2>
+<h2 align="center">
+  Hi There 
+  <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> 
+  <br>I'm Rohit Gupta
+</h2>
 
-<h5 align="center">Backend-Focused Full Stack Engineer | Microservices | Distributed Systems | AWS</h5>
+<h5 align="center">
+  Backend-Focused Full Stack Engineer | Microservices | Distributed Systems | AWS
+</h5>
+
+<p align="center">
+  📧 rohitgupta.development@gmail.com &nbsp; | &nbsp; 📱 +91-7049761589
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/rohitgupta-dev/" target="_blank">
