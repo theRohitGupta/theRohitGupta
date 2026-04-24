@@ -1,53 +1,101 @@
 <h2 align="center">Hi There <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> <br>I'm Rohit Gupta</h2>
 
-<h5 align="center">Backend Engineer specialized in Scalable Microservices & Event-Driven Systems</h5>
+<h5 align="center">Backend-Focused Full Stack Engineer | Microservices | Distributed Systems | AWS</h5>
 
 <p align="center">
-  <a href="https://leetcode.com/theRohitGupta/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25" alt="Leetcode" /></a>
-  <a href="https://www.linkedin.com/in/thisisrg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
-  <a href="mailto:rohitgupta.development@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" /></a>
+  <a href="https://leetcode.com/rohitgupta-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohitgupta-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:rohitgupta.development@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
 </p>
-
-### ⚡ Professional Summary
-* [cite_start]**Backend Specialist**: 2+ years of experience building production-grade microservices with **Node.js** and **TypeScript**[cite: 5, 12].
-* [cite_start]**Performance Driven**: Designed APIs handling **1M+ monthly requests** with **p95 < 200ms** latency.
-* [cite_start]**Infrastructure**: Expertise in **Kafka** for event-driven processing and **AWS (EC2, S3, Lambda)** for scalable deployments[cite: 9, 23].
-* [cite_start]**Reliability**: Focused on 99.9% uptime using **Redis caching**, **Circuit Breakers**, and **Rate Limiting**[cite: 6, 26].
 
 ---
 
-### 👨‍💻 Tech Stack
+### ⚡ Professional Summary
+
+- **2.5 Years Experience** building scalable backend systems and full-stack applications  
+- Architected microservices handling **~1M requests/month** with **99.9% uptime**  
+- Reduced API latency by **30%** using caching, indexing & async workflows  
+- Strong in **System Design, Event-Driven Architecture, and Performance Optimization**  
+- Experience with **AWS, Kafka, Redis, Docker, CI/CD pipelines**
+
+---
+
+### 🏢 Experience
+
+**Full Stack Engineer (Backend Focused)**  
+*Infinity Genesis Techsoft Pvt. Ltd.* | Feb 2024 – Feb 2026  
+
+**Appviser – Automotive SaaS Platform**
+
+- Architected and owned **distributed microservices architecture** using Node.js & TypeScript  
+- Built systems serving **~1M monthly requests** with **99.9% uptime**  
+- Improved backend performance (**30% latency reduction**) via:
+  - Redis caching  
+  - DB indexing & query tuning  
+  - Kafka-based async processing  
+- Achieved **95+ Lighthouse scores** via SSR optimization, lazy loading & code-splitting  
+- Built **CI/CD pipelines (GitHub Actions + Docker)** → reduced release cycles by **85%**  
+- Improved team productivity by **40%** through reusable abstractions & mentoring  
+
+---
+
+**Software Engineer Intern**  
+*Silver Oak Health* | Jul 2022 – Oct 2022  
+
+**Cloud Notes – Case Management System**
+
+- Developed backend services supporting **1500+ users**  
+- Implemented **centralized logging & error handling** → reduced MTTR by **50%**  
+- Improved API reliability → reduced errors by **25%**
+
+---
+
+### 🚀 Featured Project
+
+**Resilient API Gateway**
+
+- Built a **fault-tolerant API Gateway** handling **1K+ RPS** with **p95 < 80ms**  
+- Implemented:
+  - Custom load balancing (Round Robin + Health Checks)  
+  - **Kafka async logging**  
+  - **Redis rate limiting**  
+  - **Circuit Breakers**  
+- Reduced cascading failures by **60%** and ensured graceful degradation  
+
+---
+
+### 🧠 Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | [cite_start]Node.js, TypeScript, JavaScript, Java (Spring Boot), C++  |
-| **Databases** | [cite_start]PostgreSQL, MongoDB, Redis, MySQL  |
-| **Infrastructure** | [cite_start]AWS, Kafka, Docker, Nginx, GitHub Actions  |
-| **Architecture** | [cite_start]Microservices, Event-Driven, RESTful APIs, gRPC, OOP, SOLID  |
-| **Tools** | [cite_start]Git, Linux, Postman, Jest, Supertest, JIRA  |
+| **Languages** | JavaScript (ES6+), TypeScript |
+| **Backend** | Node.js, Express.js, REST APIs, Kafka |
+| **Frontend** | Next.js, React.js |
+| **Databases** | MongoDB, SQL, Redis |
+| **Cloud/DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes |
+| **Practices** | Microservices, Event-Driven Architecture, System Design |
 
 ---
 
-### 📝 Currently Engineering
-* **Gemini API Integration**: Developing automated technical analysis tools for complex datasets.
-* [cite_start]**System Design**: Deep diving into Advanced HLD patterns like **CQRS** and **Saga**.
-* [cite_start]**DevOps**: Automating CI/CD pipelines to reduce deployment times by 80%[cite: 25].
+### 📚 Education
 
----
-
-### 📊 Featured Project: Appviser (Automotive SaaS)
-* [cite_start]Architected distributed microservices handling high-throughput traffic[cite: 23, 24].
-* [cite_start]Implemented **JWT/OAuth2** and **RBAC** for secure, multi-tenant access control[cite: 9, 26].
-* [cite_start]Reduced production resolution time by **25%** through structured logging and observability[cite: 15, 30].
+- **MCA** – Oriental Institute of Science & Technology (2022–2024) | 8.4 CGPA  
+- **BCA** – Indira Gandhi National Tribal University (2019–2022) | 8.0 CGPA  
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisrg&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrg&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-rohitgupta&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rohitgupta&layout=compact&theme=radical" height="170" />
 </div>
 
 <p align="center">
-  <a href="https://therohitgupta.vercel.app/"><b>Portfolio</b></a> • 
-  <a href="https://drive.google.com/file/d/1QRO65NlNNF06AgXt5KdEUl8ak8R84mgX/view?usp=sharing"><b>Resume</b></a>
+  <a href="https://rohitgupta.vercel.app/"><b>Portfolio</b></a> • 
+  <a href="https://drive.google.com/file/d/1QRO65NlNNF06AgXt5KdEUl8ak8R84mgX/view"><b>Resume</b></a>
 </p>
